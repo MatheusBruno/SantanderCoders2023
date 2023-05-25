@@ -1,7 +1,6 @@
-import './components/MeuComponent'
 import MeuComponente from './components/MeuComponent'
-import './components/MeuBotao'
 import MeuBotao from './components/MeuBotao'
+import MeuContador from './components/MeuContador'
 
 function App() {
   return (
@@ -13,6 +12,7 @@ function App() {
       <MeuBotao conteudo="Click Aqui"></MeuBotao>
       <MeuBotao conteudo="Botão 1"></MeuBotao>
       <MeuBotao conteudo="Botão 2"></MeuBotao>
+      <MeuContador></MeuContador>
     </div>
   )
 }
