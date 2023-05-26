@@ -2,5 +2,8 @@
 
 ## Front End em React
 
-- ArrayList
-- Função Map
+- Função Anonima
+- Função Filter
+- Função Includes
+- Metodo useEfect
+- onChange recebe e.target.value

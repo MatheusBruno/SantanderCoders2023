@@ -3,13 +3,13 @@ import MeuBotao from './components/MeuBotao'
 import MeuContador from './components/MeuContador'
 import MinhaLista from './components/MinhaLista'
 import MinhaLista2 from './components/MinhaLista2'
+import Produto from './components/Produtos'
 
 function App() {
   return (
     <div>
       <h1>Lista no React</h1>
-      <MinhaLista></MinhaLista>
-      <MinhaLista2></MinhaLista2>
+      <Produto></Produto>
     </div>
   )
 }
