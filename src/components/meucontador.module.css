@@ -1,0 +1,26 @@
+.container{
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container > button{
+    width: 190px;
+    height: 25px;
+    margin-top: 5px;
+}
+
+.container > h1{
+    color: white;
+    font-size: 80px;
+}
+
+.container > p{
+    color: gray;
+    font-size: 60px;
+}
+
+.containerspan{
+    color: greenyellow;
+}
